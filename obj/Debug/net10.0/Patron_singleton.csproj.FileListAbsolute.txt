@@ -1,0 +1,14 @@
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\Patron_singleton.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\Patron_singleton.AssemblyInfoInputs.cache
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\Patron_singleton.AssemblyInfo.cs
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\Patron_singleton.csproj.CoreCompileInputs.cache
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\Patron_singleton.dll
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\refint\Patron_singleton.dll
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\Patron_singleton.pdb
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\bin\Debug\net10.0\Patron_singleton.exe
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\bin\Debug\net10.0\Patron_singleton.deps.json
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\bin\Debug\net10.0\Patron_singleton.runtimeconfig.json
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\bin\Debug\net10.0\Patron_singleton.dll
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\bin\Debug\net10.0\Patron_singleton.pdb
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\Patron_singleton.genruntimeconfig.cache
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\ref\Patron_singleton.dll
