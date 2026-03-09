@@ -12,3 +12,4 @@ c:\Users\aleja\OneDrive\Documentos\Patron_singleton\bin\Debug\net10.0\Patron_sin
 c:\Users\aleja\OneDrive\Documentos\Patron_singleton\bin\Debug\net10.0\Patron_singleton.pdb
 c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\Patron_singleton.genruntimeconfig.cache
 c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\ref\Patron_singleton.dll
+c:\Users\aleja\OneDrive\Documentos\Patron_singleton\obj\Debug\net10.0\Patron_singleton.sourcelink.json
