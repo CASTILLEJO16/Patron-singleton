@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "+VhLaxymEXA=",
   "success": true,
   "projectFilePath": "c:\\Users\\aleja\\OneDrive\\Documentos\\Patron_singleton\\Patron_singleton.csproj",
+=======
+  "dgSpecHash": "0XdogQM0l2Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleja\\OneDrive\\Documentos\\AbstractFactoryApp\\AbstractFactoryApp.csproj",
+>>>>>>> 5ffe689ade3b892355c71d85f36faf964e83d420
   "expectedPackageFiles": [],
   "logs": []
 }

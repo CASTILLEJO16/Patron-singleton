@@ -1,0 +1,14 @@
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\bin\Debug\net10.0\AbstractFactoryApp.exe
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\bin\Debug\net10.0\AbstractFactoryApp.deps.json
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\bin\Debug\net10.0\AbstractFactoryApp.runtimeconfig.json
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\bin\Debug\net10.0\AbstractFactoryApp.dll
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\bin\Debug\net10.0\AbstractFactoryApp.pdb
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\obj\Debug\net10.0\AbstractFactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\obj\Debug\net10.0\AbstractFactoryApp.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\obj\Debug\net10.0\AbstractFactoryApp.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\obj\Debug\net10.0\AbstractFactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\obj\Debug\net10.0\AbstractFactoryApp.dll
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\obj\Debug\net10.0\refint\AbstractFactoryApp.dll
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\obj\Debug\net10.0\AbstractFactoryApp.pdb
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\obj\Debug\net10.0\AbstractFactoryApp.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Documentos\patrones de diseño\AbstractFactoryApp\obj\Debug\net10.0\ref\AbstractFactoryApp.dll

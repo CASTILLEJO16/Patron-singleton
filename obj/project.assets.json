@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "c:\\Users\\aleja\\OneDrive\\Documentos\\Patron_singleton\\Patron_singleton.csproj",
       "projectName": "Patron_singleton",
       "projectPath": "c:\\Users\\aleja\\OneDrive\\Documentos\\Patron_singleton\\Patron_singleton.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\aleja\\OneDrive\\Documentos\\Patron_singleton\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Documentos\\AbstractFactoryApp\\AbstractFactoryApp.csproj",
+      "projectName": "AbstractFactoryApp",
+      "projectPath": "C:\\Users\\aleja\\OneDrive\\Documentos\\AbstractFactoryApp\\AbstractFactoryApp.csproj",
+      "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aleja\\OneDrive\\Documentos\\AbstractFactoryApp\\obj\\",
+>>>>>>> 5ffe689ade3b892355c71d85f36faf964e83d420
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"
